@@ -1,0 +1,10 @@
+export const BaseUrl = '';
+export const whiteColor = '#fff';
+export const primaryColor = '#28408c';
+export const primaryColorTwo = '#6dbe45';
+export const secondaryColor = '#0A0F26';
+export const grayColor = '#f7f7f7';
+export const fontColor = '#1C1C1C';
+export const shadeGrayColor = '#999999';
+export const borderColor = '#DDDDDD';
+export const blueColor = '#1DA1F2';
